@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Michel Massaad
 
-### 🎓 Estudiante de Programación y Sistemas | Aspirante a Desarrollador Web3 y Smart Contracts
+### 🎓 Estudiante de Programación y Sistemas
 
 Soy estudiante de la **Tecnicatura en Programación y Sistemas**, con experiencia en programación web y bases de datos.  
 Actualmente estoy dando mis primeros pasos en el ecosistema **Ethereum**, aprendiendo sobre **contratos inteligentes, billeteras seguras y desarrollo descentralizado**.  
